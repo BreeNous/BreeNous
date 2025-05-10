@@ -1,7 +1,7 @@
 
 <br/>
 
-## ✦ &nbsp; Hi, I'm Breeanna! &nbsp; ✦ <br>
+# ✦ &nbsp; Hi, I'm Breeanna! &nbsp; ✦ <br><br/>
 
 With a background in graphic and motion design, I like to think of software development as an interactive art form, and
 strive to make my work both highly functional and visually appealing.<br/>
